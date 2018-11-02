@@ -10,12 +10,14 @@ a {
 .bigContainer {
   display: flex;
   flex-direction: row;
+  flex-wrap:wrap;
 }
 
 .titleCont {
   display: flex;
   flex-direction: column;
   margin-right: 4vw;
+  margin-bottom:4vw;
 }
 
 .title {
