@@ -1,0 +1,153 @@
+body {
+  padding: 20px;
+  font-family: 'Slabo 27px', serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.bigContainer{
+  display:flex;
+  flex-direction:row;
+}
+.titleCont{
+  display:flex;
+  flex-direction:column;
+  margin-right: 4vw;
+}
+
+.title{
+  font-family: 'Fjalla One', sans-serif;
+  line-height:13.5vw;
+  font-size:14vw;
+  text-shadow: .5vw .5vw 0 #52c7b8;
+}
+
+#signs{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-between;
+  flex-wrap:wrap;
+}
+
+.sign{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:space-between;
+  padding:10px;
+  margin:5px;
+  background-color: #b2ebf2;
+  border-radius:5px;
+  width: 20%;
+  height: 19%;
+}
+
+.sign:hover{
+  background-color: lightyellow;
+  color:grey;
+}
+
+.smallTitle{
+  font-family: 'Fjalla One', sans-serif !important;
+  font-size:5vw;
+}
+
+.dayTitle{
+  padding-top:4vw;
+}
+
+.const{
+  max-width:100%;
+  max-height:100%;
+  align-self:center;
+  color: white;
+  
+}
+
+.selected{
+    background-color: lightyellow!important;
+    color:grey!important;
+}
+
+#days{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-around;
+  flex-wrap:wrap;
+}
+
+.day{
+  padding:10px;
+  margin:10px;
+  background-color: #009688;
+  border-radius:5px;
+  width: 15%;
+  height: 10%;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  color:white;
+  font-size:larger;
+}
+
+.day:hover{
+  background-color: lightyellow;
+  color: grey;
+}
+
+.buttonCont{
+  display:flex;
+  flex-direction:row;
+  justify-content:center;
+  padding:4vw;
+}
+
+#getHoroscope{
+  font-family: 'Slabo 27px', serif;
+  font-size:larger;
+  background-color:lightgrey;
+  background-image:none;
+  border:none;
+  border-color: #52c7b8;
+  border-radius: 5px;
+  width: 40%;
+  height: 10%;
+  color:white;
+}
+
+.enabled{
+  background-color:lightyellow!important;
+  color: grey !important;
+  box-shadow: .5vw .5vw 0 #b2ebf2;
+}
+
+.enabled:hover{
+  box-shadow: .5vw .5vw 0 #52c7b8;
+}
+
+#results{
+  padding-top:4vw;
+}
+
+#resultTitle{
+  text-shadow: 0.3vw 0.4vw 0 #b2ebf2;
+  font-size: 7vw;
+}
+
+.smallerTitle{
+  font-family: 'Fjalla One', sans-serif !important;
+  font-size:18pt;
+  color: #009688;
+}
+
+.result{
+  margin-left:2em;
+  font-size:18pt;
+  padding:5px;
+}
+
+.italic{
+  font-style:italic;
+}

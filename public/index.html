@@ -1,0 +1,99 @@
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.0/angular.min.js"></script>
+    <!--script src="javascripts/app.js"></script-->
+    <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+    <meta charset="utf-8">
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Slabo+27px" rel="stylesheet">   
+    <title>Creative Assignment 4</title>
+</head>
+
+<body>
+    <!--https://aztro.sameerkumar.website/?sign=aries&day=today-->
+    <!--create buttons for all the signs, then one for yest, tod, and tom-->
+    <div class="bigContainer">
+        <div class="titleCont">
+            <div id="daily" class="title">DAILY</div>
+            <div id="horoscope" class="title">HORO-<br>SCOPE</div>
+        </div>
+        <div class="signCont">
+            <div class="smallTitle">YOUR SIGN:</div>
+            <div id="signs">
+                <div class="sign" id="aries"><img class="const" src="images/aries.png">Aries</div>
+                <div class="sign" id="taurus"><img class="const" src="images/taurus.png">Taurus</div>
+                <div class="sign" id="gemini"><img class="const" src="images/gemini.png">Gemini</div>
+                <div class="sign" id="cancer"><img class="const" src="images/cancer.png">Cancer</div>
+                <div class="sign" id="leo"><img class="const" src="images/leo.png">Leo</div>
+                <div class="sign" id="virgo"><img class="const" src="images/virgo.png">Virgo</div>
+                <div class="sign" id="libra"><img class="const" src="images/libra.png">Libra</div>
+                <div class="sign" id="scorpio"><img class="const" src="images/scorpio.png">Scorpio</div>
+                <div class="sign" id="sagittarius"><img class="const" src="images/sagittarius.png">Sagittarius</div>
+                <div class="sign" id="capricorn"><img class="const" src="images/capricorn.png">Capricorn</div>
+                <div class="sign" id="aquarius"><img class="const" src="images/acquarius.png">Aquarius</div>
+                <div class="sign" id="pisces"><img class="const" src="images/pisces.png">Pisces</div>
+            </div>
+        </div>
+        
+    </div>
+    <div class="smallTitle dayTitle">HOROSCOPE FOR:</div>
+    <div id="days">
+        <div class="day" id="yesterday">Yesterday</div>
+        <div class="day" id="today">Today</div>
+        <div class="day" id="tomorrow">Tomorrow</div>
+    </div>
+    <div class="buttonCont">
+        <button id="getHoroscope">Get Horoscope</button>
+    </div>
+    <div id="results"></div>
+
+    <script>
+        //on click .sign, remove .selected from others and add to this one
+        //same for on click .day
+        var sign = null;
+        var day = null;
+        $('.sign').click(function(e) {
+            e.preventDefault();
+            $('#signs>div.selected').removeClass('selected');
+            var id = $(e.currentTarget)[0].id
+            $('#' + id).addClass("selected");
+            sign = id;
+            if(day !== null) enableButton();
+        });
+        $('.day').click(function(e) {
+            e.preventDefault();
+            $('#days>div.selected').removeClass('selected');
+            var id = $(e.currentTarget)[0].id
+            $('#' + id).addClass("selected");
+            day = id;
+            if(sign !== null) enableButton();
+        });
+        $('#getHoroscope').click(function(e) {
+            e.preventDefault(); //normal submit behavior is reset pg
+            //check for selected day and sign
+            var url = "/horoscope?q=";
+            url += sign + ',';
+            url += day;
+            console.log(url);
+            $.getJSON(url, function(data) {
+                console.log(data);
+                //just append html to bottom bc LAZY
+                var html = "<div class='smallTitle' id='resultTitle'>" + sign.toUpperCase() + " HOROSCOPE FOR " + day.toUpperCase() + ": </div>";
+                html += "<div class='result italic'>" + data["date_range"] + "</div>";
+                html += "<div class='result'><span class='smallerTitle' >COLOR: </span>" + data["color"] + "</div>";
+                html += "<div class='result'><span class='smallerTitle' >COMPATIBLE WITH: </span>" + data["compatibility"] + "</div>"
+                html += "<div class='result'><span class='smallerTitle' >LUCKY NUMBER: </span>" + data["lucky_number"] + "</div>"
+                html += "<div class='result'><span class='smallerTitle' >LUCKY TIME: </span>" + data["lucky_time"] + "</div>"
+                html += "<div class='result'><span class='smallerTitle' >MOOD: </span>" + data["lucky_time"] + "</div>"
+                html += "<div class='result'><span class='smallerTitle' >HOROSCOPE: </span>" + data["description"] + "</div>"
+                $('#results').empty();
+                $('#results').append(html);
+            });
+        });
+        function enableButton(){
+            $('#getHoroscope').prop('disabled', false);
+            $('#getHoroscope').addClass('enabled');
+        }
+    </script>
+
+</body>
+
