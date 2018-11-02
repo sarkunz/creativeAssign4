@@ -10,14 +10,13 @@ a {
 .bigContainer {
   display: flex;
   flex-direction: row;
-  flex-wrap:wrap;
 }
 
 .titleCont {
   display: flex;
   flex-direction: column;
   margin-right: 4vw;
-  margin-bottom:4vw;
+  margin-bottom: 4vw;
 }
 
 .title {
@@ -38,7 +37,7 @@ a {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-evenly;
   padding: 10px;
   margin: 5px;
   background-color: #b2ebf2;
@@ -153,4 +152,42 @@ a {
 
 .italic {
   font-style: italic;
+}
+
+@media (max-device-width: 700px) {
+  body{
+    font-size:5vw;
+  }
+  .bigContainer {
+    flex-direction: column;
+  }
+  .title {
+    line-height: 29vw;
+    font-size: 30vw;
+    text-shadow: 1vw 1vw 0 #52c7b8;
+  }
+  #signs{
+    justify-content:center;
+  }
+  .sign {
+    width: 40%;
+    height: 25%;
+    font-size: 5vw;
+    margin:10px;
+  }
+  .smallTitle {
+    font-size:8vw;
+  }
+  .day{
+    padding:20px;
+    width:fit-content;
+  }
+  #getHoroscope{
+    width:50%;
+    padding:20px;
+  }
+  #resultTitle {
+    font-size:10vw;
+    text-shadow: 0.5vw 0.6vw 0 #b2ebf2;
+  }
 }
