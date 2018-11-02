@@ -3,10 +3,6 @@ body {
   font-family: 'Slabo 27px', serif;
 }
 
-a {
-  color: #00B7FF;
-}
-
 .bigContainer {
   display: flex;
   flex-direction: row;

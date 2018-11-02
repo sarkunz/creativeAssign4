@@ -700,3 +700,390 @@ https://aztro.sameerkumar.website/?sign=pisces&day=tomorrow
 IN /horoscope
 https://aztro.sameerkumar.website/?sign=sagittarius&day=today
 [0mGET /horoscope?q=sagittarius,today [32m200 [0m128.135 ms - 391[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=leo&day=today
+[0mGET /horoscope?q=leo,today [32m200 [0m162.395 ms - 385[0m
+[0mGET / [36m304 [0m0.279 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.412 ms - 2835[0m
+[0mGET /images/aries.png [36m304 [0m0.275 ms - -[0m
+[0mGET /images/taurus.png [36m304 [0m0.182 ms - -[0m
+[0mGET /images/gemini.png [36m304 [0m0.269 ms - -[0m
+[0mGET /images/cancer.png [36m304 [0m0.195 ms - -[0m
+[0mGET /images/leo.png [36m304 [0m0.190 ms - -[0m
+[0mGET /images/sagittarius.png [36m304 [0m0.278 ms - -[0m
+[0mGET /images/capricorn.png [36m304 [0m0.196 ms - -[0m
+[0mGET /images/acquarius.png [36m304 [0m0.186 ms - -[0m
+[0mGET /images/pisces.png [36m304 [0m0.187 ms - -[0m
+[0mGET /images/virgo.png [36m304 [0m0.158 ms - -[0m
+[0mGET /images/libra.png [36m304 [0m0.234 ms - -[0m
+[0mGET /images/scorpio.png [36m304 [0m0.222 ms - -[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=virgo&day=tomorrow
+[0mGET /horoscope?q=virgo,tomorrow [32m200 [0m130.878 ms - 390[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.288 ms - -[0m
+[0mGET /images/leo.png [36m304 [0m0.286 ms - -[0m
+[0mGET /images/scorpio.png [36m304 [0m0.191 ms - -[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=leo&day=tomorrow
+[0mGET /horoscope?q=leo,tomorrow [32m200 [0m154.477 ms - 391[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=cancer&day=today
+[0mGET /horoscope?q=cancer,today [32m200 [0m100.362 ms - 384[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=cancer&day=tomorrow
+[0mGET /horoscope?q=cancer,tomorrow [32m200 [0m105.367 ms - 387[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=aries&day=tomorrow
+[0mGET /horoscope?q=aries,tomorrow [32m200 [0m126.674 ms - 409[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=taurus&day=tomorrow
+[0mGET /horoscope?q=taurus,tomorrow [32m200 [0m129.447 ms - 394[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=taurus&day=tomorrow
+[0mGET /horoscope?q=taurus,tomorrow [32m200 [0m105.287 ms - 394[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=pisces&day=tomorrow
+[0mGET /horoscope?q=pisces,tomorrow [32m200 [0m108.959 ms - 388[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=aquarius&day=tomorrow
+[0mGET /horoscope?q=aquarius,tomorrow [32m200 [0m104.614 ms - 385[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=pisces&day=tomorrow
+[0mGET /horoscope?q=pisces,tomorrow [32m200 [0m130.490 ms - 388[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=pisces&day=today
+[0mGET /horoscope?q=pisces,today [32m200 [0m116.221 ms - 418[0m
+[0mGET / [32m200 [0m0.401 ms - 5060[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.434 ms - 2835[0m
+[0mGET /images/aries.png [32m200 [0m0.427 ms - 3871[0m
+[0mGET /images/taurus.png [32m200 [0m0.301 ms - 5657[0m
+[0mGET /images/gemini.png [32m200 [0m0.709 ms - 8475[0m
+[0mGET /images/cancer.png [32m200 [0m0.847 ms - 4496[0m
+[0mGET /images/leo.png [32m200 [0m0.437 ms - 6515[0m
+[0mGET /images/acquarius.png [32m200 [0m0.285 ms - 6108[0m
+[0mGET /images/scorpio.png [32m200 [0m0.381 ms - 7108[0m
+[0mGET /images/sagittarius.png [32m200 [0m0.273 ms - 9470[0m
+[0mGET /images/capricorn.png [32m200 [0m1.620 ms - 6467[0m
+[0mGET /images/pisces.png [32m200 [0m0.763 ms - 6640[0m
+[0mGET /images/virgo.png [32m200 [0m0.336 ms - 6074[0m
+[0mGET /images/libra.png [32m200 [0m0.274 ms - 5372[0m
+[0mGET /favicon.ico [33m404 [0m14.985 ms - 1242[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=capricorn&day=today
+[0mGET /horoscope?q=capricorn,today [32m200 [0m186.130 ms - 405[0m
+[0mGET / [32m200 [0m0.392 ms - 5060[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.839 ms - 2835[0m
+[0mGET /images/aries.png [32m200 [0m1.159 ms - 3871[0m
+[0mGET /images/taurus.png [32m200 [0m0.421 ms - 5657[0m
+[0mGET /images/gemini.png [32m200 [0m4.109 ms - 8475[0m
+[0mGET /images/cancer.png [32m200 [0m0.752 ms - 4496[0m
+[0mGET /images/leo.png [32m200 [0m0.410 ms - 6515[0m
+[0mGET /images/virgo.png [32m200 [0m0.289 ms - 6074[0m
+[0mGET /images/libra.png [32m200 [0m0.652 ms - 5372[0m
+[0mGET /images/scorpio.png [32m200 [0m0.625 ms - 7108[0m
+[0mGET /images/sagittarius.png [32m200 [0m0.283 ms - 9470[0m
+[0mGET /images/capricorn.png [32m200 [0m0.265 ms - 6467[0m
+[0mGET /images/acquarius.png [32m200 [0m0.414 ms - 6108[0m
+[0mGET /images/pisces.png [32m200 [0m0.406 ms - 6640[0m
+[0mGET /favicon.ico [33m404 [0m10.487 ms - 1242[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=leo&day=yesterday
+[0mGET /horoscope?q=leo,yesterday [32m200 [0m273.450 ms - 395[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=aquarius&day=today
+[0mGET /horoscope?q=aquarius,today [32m200 [0m246.931 ms - 391[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=aquarius&day=today
+[0mGET /horoscope?q=aquarius,today [32m200 [0m287.207 ms - 391[0m
+[0mGET / [32m200 [0m0.421 ms - 5060[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.421 ms - 2835[0m
+[0mGET /images/aries.png [32m200 [0m0.388 ms - 3871[0m
+[0mGET /images/taurus.png [32m200 [0m0.572 ms - 5657[0m
+[0mGET /images/gemini.png [32m200 [0m0.643 ms - 8475[0m
+[0mGET /images/leo.png [32m200 [0m0.794 ms - 6515[0m
+[0mGET /images/virgo.png [32m200 [0m0.804 ms - 6074[0m
+[0mGET /images/cancer.png [32m200 [0m0.871 ms - 4496[0m
+[0mGET /images/libra.png [32m200 [0m0.443 ms - 5372[0m
+[0mGET /images/scorpio.png [32m200 [0m0.286 ms - 7108[0m
+[0mGET /images/sagittarius.png [32m200 [0m3.665 ms - 9470[0m
+[0mGET /images/capricorn.png [32m200 [0m0.960 ms - 6467[0m
+[0mGET /images/acquarius.png [32m200 [0m1.007 ms - 6108[0m
+[0mGET /images/pisces.png [32m200 [0m0.375 ms - 6640[0m
+[0mGET /favicon.ico [33m404 [0m14.896 ms - 1242[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=cancer&day=today
+[0mGET /horoscope?q=cancer,today [32m200 [0m145.122 ms - 384[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=cancer&day=yesterday
+[0mGET /horoscope?q=cancer,yesterday [32m200 [0m129.274 ms - 390[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=cancer&day=tomorrow
+[0mGET /horoscope?q=cancer,tomorrow [32m200 [0m122.567 ms - 387[0m
+[0mGET / [32m200 [0m0.405 ms - 5060[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.379 ms - 2835[0m
+[0mGET /images/aries.png [32m200 [0m0.373 ms - 3871[0m
+[0mGET /images/taurus.png [32m200 [0m0.400 ms - 5657[0m
+[0mGET /images/gemini.png [32m200 [0m0.855 ms - 8475[0m
+[0mGET /images/cancer.png [32m200 [0m0.865 ms - 4496[0m
+[0mGET /images/leo.png [32m200 [0m0.367 ms - 6515[0m
+[0mGET /images/pisces.png [32m200 [0m0.535 ms - 6640[0m
+[0mGET /images/capricorn.png [32m200 [0m0.559 ms - 6467[0m
+[0mGET /images/acquarius.png [32m200 [0m0.288 ms - 6108[0m
+[0mGET /images/sagittarius.png [32m200 [0m0.273 ms - 9470[0m
+[0mGET /images/virgo.png [32m200 [0m0.272 ms - 6074[0m
+[0mGET /images/libra.png [32m200 [0m0.338 ms - 5372[0m
+[0mGET /images/scorpio.png [32m200 [0m0.421 ms - 7108[0m
+[0mGET /favicon.ico [33m404 [0m10.675 ms - 1242[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=libra&day=today
+[0mGET /horoscope?q=libra,today [32m200 [0m212.072 ms - 392[0m
+[0mGET / [32m200 [0m0.419 ms - 5060[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.513 ms - 2835[0m
+[0mGET /images/aries.png [32m200 [0m0.411 ms - 3871[0m
+[0mGET /images/taurus.png [32m200 [0m0.273 ms - 5657[0m
+[0mGET /images/gemini.png [32m200 [0m0.460 ms - 8475[0m
+[0mGET /images/cancer.png [32m200 [0m0.265 ms - 4496[0m
+[0mGET /images/leo.png [32m200 [0m0.395 ms - 6515[0m
+[0mGET /images/virgo.png [32m200 [0m0.365 ms - 6074[0m
+[0mGET /images/libra.png [32m200 [0m0.411 ms - 5372[0m
+[0mGET /images/scorpio.png [32m200 [0m0.292 ms - 7108[0m
+[0mGET /images/sagittarius.png [32m200 [0m0.263 ms - 9470[0m
+[0mGET /images/capricorn.png [32m200 [0m4.871 ms - 6467[0m
+[0mGET /images/acquarius.png [32m200 [0m1.802 ms - 6108[0m
+[0mGET /images/pisces.png [32m200 [0m1.055 ms - 6640[0m
+[0mGET /favicon.ico [33m404 [0m18.090 ms - 1242[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=aquarius&day=today
+[0mGET /horoscope?q=aquarius,today [32m200 [0m117.284 ms - 391[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=libra&day=tomorrow
+[0mGET /horoscope?q=libra,tomorrow [32m200 [0m122.877 ms - 386[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=capricorn&day=tomorrow
+[0mGET /horoscope?q=capricorn,tomorrow [32m200 [0m419.082 ms - 404[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=aquarius&day=yesterday
+[0mGET /horoscope?q=aquarius,yesterday [32m200 [0m146.536 ms - 385[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=aquarius&day=tomorrow
+[0mGET /horoscope?q=aquarius,tomorrow [32m200 [0m194.700 ms - 385[0m
+[0mGET / [36m304 [0m0.257 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.279 ms - -[0m
+[0mGET /images/aries.png [36m304 [0m0.171 ms - -[0m
+[0mGET /images/taurus.png [36m304 [0m0.248 ms - -[0m
+[0mGET /images/gemini.png [36m304 [0m0.319 ms - -[0m
+[0mGET /images/cancer.png [36m304 [0m0.238 ms - -[0m
+[0mGET /images/leo.png [36m304 [0m0.179 ms - -[0m
+[0mGET /images/virgo.png [36m304 [0m0.287 ms - -[0m
+[0mGET /images/libra.png [36m304 [0m0.186 ms - -[0m
+[0mGET /images/pisces.png [36m304 [0m0.213 ms - -[0m
+[0mGET /images/acquarius.png [36m304 [0m0.171 ms - -[0m
+[0mGET /images/scorpio.png [36m304 [0m0.166 ms - -[0m
+[0mGET /images/sagittarius.png [36m304 [0m0.162 ms - -[0m
+[0mGET /images/capricorn.png [36m304 [0m0.255 ms - -[0m
+[0mGET / [32m200 [0m1.276 ms - 5060[0m
+[0mGET /favicon.ico [33m404 [0m7.510 ms - 1242[0m
+[0mGET / [32m200 [0m0.378 ms - 5060[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.408 ms - 2835[0m
+[0mGET /images/aries.png [32m200 [0m0.295 ms - 3871[0m
+[0mGET /images/taurus.png [32m200 [0m0.403 ms - 5657[0m
+[0mGET /images/gemini.png [32m200 [0m1.103 ms - 8475[0m
+[0mGET /images/cancer.png [32m200 [0m1.538 ms - 4496[0m
+[0mGET /images/leo.png [32m200 [0m0.294 ms - 6515[0m
+[0mGET /images/virgo.png [32m200 [0m0.511 ms - 6074[0m
+[0mGET /images/libra.png [32m200 [0m0.263 ms - 5372[0m
+[0mGET /images/scorpio.png [32m200 [0m0.391 ms - 7108[0m
+[0mGET /images/sagittarius.png [32m200 [0m0.931 ms - 9470[0m
+[0mGET /images/capricorn.png [32m200 [0m1.004 ms - 6467[0m
+[0mGET /images/acquarius.png [32m200 [0m1.089 ms - 6108[0m
+[0mGET /images/pisces.png [32m200 [0m0.410 ms - 6640[0m
+[0mGET /favicon.ico [33m404 [0m12.537 ms - 1242[0m
+[0mGET / [32m200 [0m0.391 ms - 5060[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.418 ms - 2835[0m
+[0mGET /images/virgo.png [32m200 [0m0.410 ms - 6074[0m
+[0mGET /images/cancer.png [32m200 [0m0.278 ms - 4496[0m
+[0mGET /images/gemini.png [32m200 [0m1.186 ms - 8475[0m
+[0mGET /images/taurus.png [32m200 [0m1.182 ms - 5657[0m
+[0mGET /images/aries.png [32m200 [0m1.030 ms - 3871[0m
+[0mGET /images/leo.png [32m200 [0m1.085 ms - 6515[0m
+[0mGET /images/libra.png [32m200 [0m0.394 ms - 5372[0m
+[0mGET /images/scorpio.png [32m200 [0m3.531 ms - 7108[0m
+[0mGET /images/sagittarius.png [32m200 [0m3.585 ms - 9470[0m
+[0mGET /images/capricorn.png [32m200 [0m3.656 ms - 6467[0m
+[0mGET /images/acquarius.png [32m200 [0m1.048 ms - 6108[0m
+[0mGET /images/pisces.png [32m200 [0m0.407 ms - 6640[0m
+[0mGET /favicon.ico [33m404 [0m8.206 ms - 1242[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=scorpio&day=today
+[0mGET /horoscope?q=scorpio,today [32m200 [0m232.746 ms - 390[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=sagittarius&day=today
+[0mGET /horoscope?q=sagittarius,today [32m200 [0m113.522 ms - 391[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=scorpio&day=yesterday
+[0mGET /horoscope?q=scorpio,yesterday [32m200 [0m115.253 ms - 388[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=scorpio&day=tomorrow
+[0mGET /horoscope?q=scorpio,tomorrow [32m200 [0m129.724 ms - 384[0m
+[0mGET / [32m200 [0m0.388 ms - 5060[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.404 ms - 2835[0m
+[0mGET /images/aries.png [32m200 [0m0.732 ms - 3871[0m
+[0mGET /images/taurus.png [32m200 [0m0.578 ms - 5657[0m
+[0mGET /images/gemini.png [32m200 [0m0.400 ms - 8475[0m
+[0mGET /images/cancer.png [32m200 [0m0.384 ms - 4496[0m
+[0mGET /images/leo.png [32m200 [0m0.319 ms - 6515[0m
+[0mGET /images/virgo.png [32m200 [0m0.329 ms - 6074[0m
+[0mGET /images/libra.png [32m200 [0m0.286 ms - 5372[0m
+[0mGET /images/scorpio.png [32m200 [0m0.527 ms - 7108[0m
+[0mGET /images/sagittarius.png [32m200 [0m0.542 ms - 9470[0m
+[0mGET /images/capricorn.png [32m200 [0m0.254 ms - 6467[0m
+[0mGET /images/acquarius.png [32m200 [0m0.282 ms - 6108[0m
+[0mGET /images/pisces.png [32m200 [0m0.339 ms - 6640[0m
+[0mGET /favicon.ico [33m404 [0m14.230 ms - 1242[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=taurus&day=today
+[0mGET /horoscope?q=taurus,today [32m200 [0m191.345 ms - 394[0m
+[0mGET / [32m200 [0m0.404 ms - 5060[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.400 ms - 2835[0m
+[0mGET /images/aries.png [32m200 [0m0.287 ms - 3871[0m
+[0mGET /images/taurus.png [32m200 [0m0.404 ms - 5657[0m
+[0mGET /images/gemini.png [32m200 [0m0.383 ms - 8475[0m
+[0mGET /images/cancer.png [32m200 [0m0.393 ms - 4496[0m
+[0mGET /images/leo.png [32m200 [0m0.264 ms - 6515[0m
+[0mGET /images/virgo.png [32m200 [0m0.265 ms - 6074[0m
+[0mGET /images/scorpio.png [32m200 [0m0.567 ms - 7108[0m
+[0mGET /images/libra.png [32m200 [0m0.690 ms - 5372[0m
+[0mGET /images/sagittarius.png [32m200 [0m0.257 ms - 9470[0m
+[0mGET /images/capricorn.png [32m200 [0m0.254 ms - 6467[0m
+[0mGET /images/acquarius.png [32m200 [0m0.268 ms - 6108[0m
+[0mGET /images/pisces.png [32m200 [0m0.272 ms - 6640[0m
+[0mGET /favicon.ico [33m404 [0m13.119 ms - 1242[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=sagittarius&day=yesterday
+[0mGET /horoscope?q=sagittarius,yesterday [32m200 [0m137.586 ms - 390[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=sagittarius&day=today
+[0mGET /horoscope?q=sagittarius,today [32m200 [0m134.566 ms - 391[0m
+[0mGET / [36m304 [0m0.283 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.288 ms - -[0m
+[0mGET /images/aries.png [36m304 [0m0.271 ms - -[0m
+[0mGET /images/taurus.png [36m304 [0m0.199 ms - -[0m
+[0mGET /images/gemini.png [36m304 [0m0.273 ms - -[0m
+[0mGET /images/cancer.png [36m304 [0m0.471 ms - -[0m
+[0mGET /images/leo.png [36m304 [0m0.489 ms - -[0m
+[0mGET /images/virgo.png [36m304 [0m0.179 ms - -[0m
+[0mGET /images/acquarius.png [36m304 [0m0.262 ms - -[0m
+[0mGET /images/pisces.png [36m304 [0m0.175 ms - -[0m
+[0mGET /images/capricorn.png [36m304 [0m0.169 ms - -[0m
+[0mGET /images/libra.png [36m304 [0m0.410 ms - -[0m
+[0mGET /images/scorpio.png [36m304 [0m0.343 ms - -[0m
+[0mGET /images/sagittarius.png [36m304 [0m0.167 ms - -[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=aries&day=yesterday
+[0mGET /horoscope?q=aries,yesterday [32m200 [0m221.862 ms - 392[0m
+[0mGET / [32m200 [0m0.405 ms - 5060[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.399 ms - 2835[0m
+[0mGET /images/aries.png [32m200 [0m0.280 ms - 3871[0m
+[0mGET /images/taurus.png [32m200 [0m0.403 ms - 5657[0m
+[0mGET /images/gemini.png [32m200 [0m0.690 ms - 8475[0m
+[0mGET /images/cancer.png [32m200 [0m0.725 ms - 4496[0m
+[0mGET /images/leo.png [32m200 [0m0.377 ms - 6515[0m
+[0mGET /images/acquarius.png [32m200 [0m1.000 ms - 6108[0m
+[0mGET /images/capricorn.png [32m200 [0m1.087 ms - 6467[0m
+[0mGET /images/pisces.png [32m200 [0m1.115 ms - 6640[0m
+[0mGET /images/sagittarius.png [32m200 [0m0.317 ms - 9470[0m
+[0mGET /images/virgo.png [32m200 [0m0.315 ms - 6074[0m
+[0mGET /images/libra.png [32m200 [0m0.340 ms - 5372[0m
+[0mGET /images/scorpio.png [32m200 [0m0.282 ms - 7108[0m
+[0mGET /favicon.ico [33m404 [0m9.625 ms - 1242[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=scorpio&day=today
+[0mGET /horoscope?q=scorpio,today [32m200 [0m207.796 ms - 390[0m
+[0mGET / [32m200 [0m0.400 ms - 5060[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.420 ms - 2835[0m
+[0mGET /images/aries.png [32m200 [0m0.269 ms - 3871[0m
+[0mGET /images/taurus.png [32m200 [0m0.379 ms - 5657[0m
+[0mGET /images/gemini.png [32m200 [0m0.261 ms - 8475[0m
+[0mGET /images/cancer.png [32m200 [0m0.460 ms - 4496[0m
+[0mGET /images/leo.png [32m200 [0m0.544 ms - 6515[0m
+[0mGET /images/virgo.png [32m200 [0m0.599 ms - 6074[0m
+[0mGET /images/libra.png [32m200 [0m0.378 ms - 5372[0m
+[0mGET /images/pisces.png [32m200 [0m0.271 ms - 6640[0m
+[0mGET /images/capricorn.png [32m200 [0m0.237 ms - 6467[0m
+[0mGET /images/acquarius.png [32m200 [0m0.847 ms - 6108[0m
+[0mGET /images/scorpio.png [32m200 [0m0.800 ms - 7108[0m
+[0mGET /images/sagittarius.png [32m200 [0m0.861 ms - 9470[0m
+[0mGET /favicon.ico [33m404 [0m19.346 ms - 1242[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=virgo&day=today
+[0mGET /horoscope?q=virgo,today [32m200 [0m257.788 ms - 383[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=aquarius&day=today
+[0mGET /horoscope?q=aquarius,today [32m200 [0m210.924 ms - 391[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=capricorn&day=today
+[0mGET /horoscope?q=capricorn,today [32m200 [0m230.978 ms - 405[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=taurus&day=tomorrow
+[0mGET /horoscope?q=taurus,tomorrow [32m200 [0m214.522 ms - 394[0m
+[0mGET / [36m304 [0m0.252 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.274 ms - -[0m
+[0mGET /images/aries.png [36m304 [0m0.270 ms - -[0m
+[0mGET /images/taurus.png [36m304 [0m0.241 ms - -[0m
+[0mGET /images/gemini.png [36m304 [0m0.265 ms - -[0m
+[0mGET /images/acquarius.png [36m304 [0m0.276 ms - -[0m
+[0mGET /images/libra.png [36m304 [0m0.334 ms - -[0m
+[0mGET /images/capricorn.png [36m304 [0m0.814 ms - -[0m
+[0mGET /images/pisces.png [36m304 [0m0.989 ms - -[0m
+[0mGET /images/sagittarius.png [36m304 [0m0.990 ms - -[0m
+[0mGET /images/scorpio.png [36m304 [0m0.989 ms - -[0m
+[0mGET /images/cancer.png [36m304 [0m0.276 ms - -[0m
+[0mGET /images/leo.png [36m304 [0m0.277 ms - -[0m
+[0mGET /images/virgo.png [36m304 [0m0.289 ms - -[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=aries&day=today
+[0mGET /horoscope?q=aries,today [32m200 [0m264.499 ms - 406[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.271 ms - -[0m
+[0mGET / [32m200 [0m0.376 ms - 5148[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.295 ms - -[0m
+[0mGET /images/aries.png [36m304 [0m0.468 ms - -[0m
+[0mGET /images/taurus.png [36m304 [0m0.469 ms - -[0m
+[0mGET /images/gemini.png [36m304 [0m0.264 ms - -[0m
+[0mGET /images/cancer.png [36m304 [0m0.173 ms - -[0m
+[0mGET /images/leo.png [36m304 [0m0.263 ms - -[0m
+[0mGET /images/virgo.png [36m304 [0m0.192 ms - -[0m
+[0mGET /images/libra.png [36m304 [0m0.193 ms - -[0m
+[0mGET /images/acquarius.png [36m304 [0m0.456 ms - -[0m
+[0mGET /images/pisces.png [36m304 [0m0.446 ms - -[0m
+[0mGET /images/scorpio.png [36m304 [0m0.179 ms - -[0m
+[0mGET /images/sagittarius.png [36m304 [0m0.165 ms - -[0m
+[0mGET /images/capricorn.png [36m304 [0m0.233 ms - -[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=aries&day=today
+[0mGET /horoscope?q=aries,today [32m200 [0m115.688 ms - 406[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=aquarius&day=today
+[0mGET /horoscope?q=aquarius,today [32m200 [0m129.661 ms - 391[0m
+[0mGET / [32m200 [0m0.383 ms - 5141[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.273 ms - -[0m
+[0mGET /images/aries.png [36m304 [0m0.224 ms - -[0m
+[0mGET /images/taurus.png [36m304 [0m0.284 ms - -[0m
+[0mGET /images/gemini.png [36m304 [0m0.269 ms - -[0m
+[0mGET /images/cancer.png [36m304 [0m0.278 ms - -[0m
+[0mGET /images/leo.png [36m304 [0m0.195 ms - -[0m
+[0mGET /images/virgo.png [36m304 [0m0.223 ms - -[0m
+[0mGET /images/acquarius.png [36m304 [0m0.253 ms - -[0m
+[0mGET /images/pisces.png [36m304 [0m0.361 ms - -[0m
+[0mGET /images/capricorn.png [36m304 [0m0.356 ms - -[0m
+[0mGET /images/libra.png [36m304 [0m0.176 ms - -[0m
+[0mGET /images/scorpio.png [36m304 [0m0.380 ms - -[0m
+[0mGET /images/sagittarius.png [36m304 [0m0.446 ms - -[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=capricorn&day=today
+[0mGET /horoscope?q=capricorn,today [32m200 [0m213.645 ms - 405[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=scorpio&day=tomorrow
+[0mGET /horoscope?q=scorpio,tomorrow [32m200 [0m152.654 ms - 384[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=aries&day=today
+[0mGET /horoscope?q=aries,today [32m200 [0m175.419 ms - 406[0m
