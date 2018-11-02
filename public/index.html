@@ -4,7 +4,7 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
     <meta charset="utf-8">
     <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
-    <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Slabo+27px" rel="stylesheet">   
+    <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Slabo+27px" rel="stylesheet">
     <title>Creative Assignment 4</title>
 </head>
 
@@ -33,7 +33,7 @@
                 <div class="sign" id="pisces"><img class="const" src="images/pisces.png">Pisces</div>
             </div>
         </div>
-        
+
     </div>
     <div class="smallTitle dayTitle">HOROSCOPE FOR:</div>
     <div id="days">
@@ -57,7 +57,7 @@
             var id = $(e.currentTarget)[0].id
             $('#' + id).addClass("selected");
             sign = id;
-            if(day !== null) enableButton();
+            if (day !== null) enableButton();
         });
         $('.day').click(function(e) {
             e.preventDefault();
@@ -65,7 +65,7 @@
             var id = $(e.currentTarget)[0].id
             $('#' + id).addClass("selected");
             day = id;
-            if(sign !== null) enableButton();
+            if (sign !== null) enableButton();
         });
         $('#getHoroscope').click(function(e) {
             e.preventDefault(); //normal submit behavior is reset pg
@@ -83,17 +83,17 @@
                 html += "<div class='result'><span class='smallerTitle' >COMPATIBLE WITH: </span>" + data["compatibility"] + "</div>"
                 html += "<div class='result'><span class='smallerTitle' >LUCKY NUMBER: </span>" + data["lucky_number"] + "</div>"
                 html += "<div class='result'><span class='smallerTitle' >LUCKY TIME: </span>" + data["lucky_time"] + "</div>"
-                html += "<div class='result'><span class='smallerTitle' >MOOD: </span>" + data["lucky_time"] + "</div>"
+                html += "<div class='result'><span class='smallerTitle' >MOOD: </span>" + data["mood"] + "</div>"
                 html += "<div class='result'><span class='smallerTitle' >HOROSCOPE: </span>" + data["description"] + "</div>"
                 $('#results').empty();
                 $('#results').append(html);
             });
         });
-        function enableButton(){
+
+        function enableButton() {
             $('#getHoroscope').prop('disabled', false);
             $('#getHoroscope').addClass('enabled');
         }
     </script>
 
 </body>
-

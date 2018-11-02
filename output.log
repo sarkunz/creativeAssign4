@@ -662,3 +662,41 @@ https://aztro.sameerkumar.website/?sign=taurus&day=tomorrow
 [0mGET /images/libra.png [36m304 [0m0.166 ms - -[0m
 [0mGET /images/scorpio.png [36m304 [0m0.168 ms - -[0m
 [0mGET /images/sagittarius.png [36m304 [0m0.263 ms - -[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=taurus&day=today
+[0mGET /horoscope?q=taurus,today [32m200 [0m130.645 ms - 394[0m
+[0mGET /images/acquarius.png [36m304 [0m0.266 ms - -[0m
+[0mGET /images/pisces.png [36m304 [0m0.285 ms - -[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=cancer&day=yesterday
+[0mGET /horoscope?q=cancer,yesterday [32m200 [0m98.074 ms - 390[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=cancer&day=yesterday
+[0mGET /horoscope?q=cancer,yesterday [32m200 [0m93.253 ms - 390[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=pisces&day=yesterday
+[0mGET /horoscope?q=pisces,yesterday [32m200 [0m88.477 ms - 381[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=cancer&day=yesterday
+[0mGET /horoscope?q=cancer,yesterday [32m200 [0m96.515 ms - 390[0m
+[0mGET /images/capricorn.png [36m304 [0m0.283 ms - -[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=pisces&day=tomorrow
+[0mGET /horoscope?q=pisces,tomorrow [32m200 [0m97.767 ms - 388[0m
+[0mGET / [32m200 [0m0.402 ms - 5060[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.424 ms - 2860[0m
+[0mGET /images/aries.png [36m304 [0m0.273 ms - -[0m
+[0mGET /images/taurus.png [36m304 [0m0.172 ms - -[0m
+[0mGET /images/gemini.png [36m304 [0m0.348 ms - -[0m
+[0mGET /images/cancer.png [36m304 [0m0.287 ms - -[0m
+[0mGET /images/leo.png [36m304 [0m0.181 ms - -[0m
+[0mGET /images/sagittarius.png [36m304 [0m0.252 ms - -[0m
+[0mGET /images/virgo.png [36m304 [0m0.182 ms - -[0m
+[0mGET /images/capricorn.png [36m304 [0m0.382 ms - -[0m
+[0mGET /images/scorpio.png [36m304 [0m0.376 ms - -[0m
+[0mGET /images/acquarius.png [36m304 [0m0.281 ms - -[0m
+[0mGET /images/pisces.png [36m304 [0m0.187 ms - -[0m
+[0mGET /images/libra.png [36m304 [0m0.280 ms - -[0m
+IN /horoscope
+https://aztro.sameerkumar.website/?sign=sagittarius&day=today
+[0mGET /horoscope?q=sagittarius,today [32m200 [0m128.135 ms - 391[0m
